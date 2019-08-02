@@ -1,0 +1,86 @@
+#fb {
+    background-color: midnightblue;
+    color: white;
+    cursor: pointer;
+}
+#rows {
+    padding: 25px;
+}
+
+#go {
+    background-color: firebrick;
+    color: white;
+
+    cursor: pointer;
+}
+
+#git {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+
+}
+
+#git:hover {
+    background-color: black;
+    color: white;
+}
+
+button {
+    margin-bottom: 28px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+}
+
+#foot {
+    background-color: black;
+    border: 2px 2px black;
+    border-radius: 10px;
+    margin-left: 20;
+    margin-right: 20;
+}
+
+.sp {
+    padding-left: 13px;
+}
+a {
+    color: floralwhite;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: mediumaquamarine;
+}
+.school {
+    list-style-type: none;
+    background-color: rgb(0, 0, 0);
+    padding: 16px;
+    text-align: center;
+}
+
+.management {
+    display: inline;
+    padding: 10px;
+    color: black;
+}
+
+
+#copy {
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 18;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+#st {
+    position: sticky;
+    top: 0;
+}
