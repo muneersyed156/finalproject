@@ -79,7 +79,11 @@ a:hover {
     padding-top: 1px;
     padding-bottom: 1px;
 }
-
+#insta{
+    cursor:pointer;
+    background-color:rgb(197, 125, 149);
+    color:white;
+}
 #st {
     position: sticky;
     top: 0;
