@@ -84,3 +84,7 @@ a:hover {
     position: sticky;
     top: 0;
 }
+#bg{
+    background-color: white;
+    padding:2px;
+}
