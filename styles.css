@@ -20,6 +20,9 @@
     cursor: pointer;
 
 }
+body{
+    margin:0;
+}
 
 #git:hover {
     background-color: black;
